@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Power ON (Blue) -->
+    <color name="power_blue_dark">#01579B</color>
+    <color name="power_blue_medium">#0288D1</color>
+    <color name="power_blue_light">#4FC3F7</color>
+    <color name="power_blue_surface">#E1F5FE</color>
+
+    <!-- Power OFF (Red) -->
+    <color name="power_red_dark">#B71C1C</color>
+    <color name="power_red_medium">#C62828</color>
+    <color name="power_red_light">#EF5350</color>
+    <color name="power_red_surface">#FFEBEE</color>
+
+    <!-- Neutral -->
+    <color name="power_amber">#F57F17</color>
+    <color name="power_unknown">#757575</color>
+    <color name="background_light">#FAFAFA</color>
+    <color name="background_dark">#121212</color>
+    <color name="surface_dark">#1E1E1E</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

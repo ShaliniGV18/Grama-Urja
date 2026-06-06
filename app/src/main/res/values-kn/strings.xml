@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ಗ್ರಾಮ ಊರ್ಜಾ</string>
+    <string name="app_tagline">ಸ್ಮಾರ್ಟ್ ಗ್ರಾಮ ವಿದ್ಯುತ್ ಮಾನಿಟರ್</string>
+
+    <string name="select_zone">ನಿಮ್ಮ ವಲಯ ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="search_zones">ಗ್ರಾಮ ಅಥವಾ ವಲಯ ಹುಡುಕಿ...</string>
+    <string name="detect_location">ಸ್ಥಳ ಪತ್ತೆ ಮಾಡಿ</string>
+    <string name="nearest_zone">ಹತ್ತಿರದ ವಲಯ</string>
+    <string name="confirm_zone">ವಲಯ ಖಚಿತಪಡಿಸಿ</string>
+
+    <string name="power_status">ವಿದ್ಯುತ್ ಸ್ಥಿತಿ</string>
+    <string name="power_on">ವಿದ್ಯುತ್ ಇದೆ</string>
+    <string name="power_off">ವಿದ್ಯುತ್ ಇಲ್ಲ</string>
+    <string name="unknown_status">ಸ್ಥಿತಿ ತಿಳಿದಿಲ್ಲ</string>
+    <string name="tap_to_update">ಸ್ಥಿತಿ ನವೀಕರಿಸಲು ಒತ್ತಿ</string>
+    <string name="updated_just_now">ಈಗ ತಾನೇ ನವೀಕರಿಸಲಾಗಿದೆ</string>
+    <string name="updated_ago">%1$s ಹಿಂದೆ ನವೀಕರಿಸಲಾಗಿದೆ</string>
+    <string name="confirmed_by">%1$d ಬಳಕೆದಾರರು ಖಚಿತಪಡಿಸಿದ್ದಾರೆ</string>
+    <string name="confirm_status">ನಾನು ಇದನ್ನು ಖಚಿತಪಡಿಸುತ್ತೇನೆ</string>
+    <string name="change_zone">ವಲಯ ಬದಲಾಯಿಸಿ</string>
+    <string name="your_zone">ನಿಮ್ಮ ವಲಯ</string>
+    <string name="prediction_label">AI ಮುನ್ಸೂಚನೆ</string>
+    <string name="spam_warning">ದಯವಿಟ್ಟು 30 ಸೆಕೆಂಡ್ ನಿರೀಕ್ಷಿಸಿ</string>
+
+    <string name="power_history">ವಿದ್ಯುತ್ ಇತಿಹಾಸ</string>
+    <string name="last_24h">ಕಳೆದ 24 ಗಂಟೆ</string>
+    <string name="last_7d">ಕಳೆದ 7 ದಿನ</string>
+    <string name="no_history">ಯಾವುದೇ ಇತಿಹಾಸ ಲಭ್ಯವಿಲ್ಲ</string>
+    <string name="power_on_label">ಆನ್</string>
+    <string name="power_off_label">ಆಫ್</string>
+
+    <string name="pump_timer">ಪಂಪ್ ಟೈಮರ್</string>
+    <string name="select_crop">ಬೆಳೆ ಆಯ್ಕೆ</string>
+    <string name="enter_area">ಪ್ರದೇಶ (ಎಕರೆ)</string>
+    <string name="calculate">ಲೆಕ್ಕ ಹಾಕಿ</string>
+    <string name="recommended_duration">ಶಿಫಾರಸು ಮಾಡಿದ ಅವಧಿ</string>
+    <string name="hours_format">%1$.1f ಗಂಟೆ</string>
+    <string name="crop_rice">ಭತ್ತ</string>
+    <string name="crop_wheat">ಗೋಧಿ</string>
+    <string name="crop_vegetables">ತರಕಾರಿ</string>
+    <string name="crop_sugarcane">ಕಬ್ಬು</string>
+    <string name="crop_groundnut">ಶೇಂಗಾ</string>
+    <string name="pump_tip">ವಿದ್ಯುತ್ ಇರುವಾಗ ಮತ್ತು ಸ್ಥಿರವಾಗಿದ್ದಾಗ ಪಂಪ್ ಚಾಲನೆ ಮಾಡಿ</string>
+
+    <string name="nav_home">ಮುಖ್ಯಪುಟ</string>
+    <string name="nav_history">ಇತಿಹಾಸ</string>
+    <string name="nav_pump">ಟೈಮರ್</string>
+    <string name="nav_map">ನಕ್ಷೆ</string>
+    <string name="nav_admin">ನಿರ್ವಹಣೆ</string>
+    <string name="nav_profile">ಪ್ರೊಫೈಲ್</string>
+
+    <string name="error_location">ಸ್ಥಳ ಪತ್ತೆ ಆಗಲಿಲ್ಲ. ದಯವಿಟ್ಟು ಕೈಯಾರೆ ವಲಯ ಆಯ್ಕೆಮಾಡಿ.</string>
+    <string name="error_network">ಇಂಟರ್ನೆಟ್ ಇಲ್ಲ. ಸಂಗ್ರಹಿತ ಡೇಟಾ ತೋರಿಸಲಾಗುತ್ತಿದೆ.</string>
+    <string name="error_update_failed">ನವೀಕರಣ ವಿಫಲವಾಗಿದೆ. ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="offline_mode">ಆಫ್ಲೈನ್ ಮೋಡ್ - ಸಂಗ್ರಹಿತ ಡೇಟಾ</string>
+    <string name="syncing">ಸಿಂಕ್ ಆಗುತ್ತಿದೆ...</string>
+</resources>

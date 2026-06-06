@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Grama Urja</string>
+    <string name="app_tagline">Smart Village Power Monitor</string>
+
+    <string name="select_zone">Select Your Zone</string>
+    <string name="search_zones">Search village or zone...</string>
+    <string name="detect_location">Detect My Location</string>
+    <string name="nearest_zone">Nearest Zone</string>
+    <string name="confirm_zone">Confirm Zone</string>
+
+    <string name="power_status">Power Status</string>
+    <string name="power_on">Power ON</string>
+    <string name="power_off">Power OFF</string>
+    <string name="unknown_status">Status Unknown</string>
+    <string name="tap_to_update">Tap to update status</string>
+    <string name="updated_just_now">Updated just now</string>
+    <string name="updated_ago">Updated %1$s ago</string>
+    <string name="confirmed_by">Confirmed by %1$d users</string>
+    <string name="confirm_status">I Confirm This</string>
+    <string name="change_zone">Change Zone</string>
+    <string name="your_zone">Your Zone</string>
+    <string name="prediction_label">AI Prediction</string>
+    <string name="spam_warning">Please wait 30 seconds before updating again</string>
+
+    <string name="power_history">Power History</string>
+    <string name="last_24h">Last 24 Hours</string>
+    <string name="last_7d">Last 7 Days</string>
+    <string name="no_history">No history available yet</string>
+    <string name="power_on_label">ON</string>
+    <string name="power_off_label">OFF</string>
+
+    <string name="pump_timer">Pump Timer</string>
+    <string name="select_crop">Select Crop</string>
+    <string name="enter_area">Area (acres)</string>
+    <string name="calculate">Calculate</string>
+    <string name="recommended_duration">Recommended Duration</string>
+    <string name="hours_format">%1$.1f hours</string>
+    <string name="crop_rice">Rice / Paddy</string>
+    <string name="crop_wheat">Wheat</string>
+    <string name="crop_vegetables">Vegetables</string>
+    <string name="crop_sugarcane">Sugarcane</string>
+    <string name="crop_groundnut">Groundnut</string>
+    <string name="pump_tip">Run pump when power is ON and stable</string>
+
+    <string name="admin_dashboard">Admin Dashboard</string>
+    <string name="all_zones">All Zones</string>
+    <string name="override_status">Override Status</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_history">History</string>
+    <string name="nav_pump">Timer</string>
+    <string name="nav_map">Map</string>
+    <string name="nav_admin">Admin</string>
+    <string name="nav_profile">Profile</string>
+
+    <string name="notif_channel_name">Power Alerts</string>
+    <string name="notif_channel_desc">Alerts when power status changes in your zone</string>
+    <string name="notif_power_on_title">Power is Back</string>
+    <string name="notif_power_on_body">Power is ON in %1$s. Start your pump now.</string>
+    <string name="notif_power_off_title">Power is OFF</string>
+    <string name="notif_power_off_body">Power has gone OFF in %1$s.</string>
+
+    <string name="error_location">Could not detect location. Please select zone manually.</string>
+    <string name="error_network">No internet. Showing cached data.</string>
+    <string name="error_update_failed">Update failed. Please try again.</string>
+    <string name="offline_mode">Offline Mode - Cached Data</string>
+    <string name="syncing">Syncing...</string>
+</resources>

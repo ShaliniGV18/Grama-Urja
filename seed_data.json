@@ -1,0 +1,68 @@
+{
+  "zones": {
+    "hosahalli_t1": {
+      "id": "hosahalli_t1",
+      "name": "Hosahalli – Transformer 1",
+      "district": "Tumkur",
+      "status": "UNKNOWN",
+      "timestamp": 0,
+      "confirmCount": 0
+    },
+    "sira_t2": {
+      "id": "sira_t2",
+      "name": "Sira – Main Feeder",
+      "district": "Tumkur",
+      "status": "UNKNOWN",
+      "timestamp": 0,
+      "confirmCount": 0
+    },
+    "pavagada_t1": {
+      "id": "pavagada_t1",
+      "name": "Pavagada Solar Zone",
+      "district": "Tumkur",
+      "status": "UNKNOWN",
+      "timestamp": 0,
+      "confirmCount": 0
+    },
+    "madhugiri_t1": {
+      "id": "madhugiri_t1",
+      "name": "Madhugiri – Agri Feeder",
+      "district": "Tumkur",
+      "status": "UNKNOWN",
+      "timestamp": 0,
+      "confirmCount": 0
+    },
+    "tiptur_t1": {
+      "id": "tiptur_t1",
+      "name": "Tiptur – Coconut Belt",
+      "district": "Tumkur",
+      "status": "UNKNOWN",
+      "timestamp": 0,
+      "confirmCount": 0
+    },
+    "kunigal_t1": {
+      "id": "kunigal_t1",
+      "name": "Kunigal – Paddy Zone",
+      "district": "Tumkur",
+      "status": "UNKNOWN",
+      "timestamp": 0,
+      "confirmCount": 0
+    },
+    "gubbi_t1": {
+      "id": "gubbi_t1",
+      "name": "Gubbi – Mulberry Zone",
+      "district": "Tumkur",
+      "status": "UNKNOWN",
+      "timestamp": 0,
+      "confirmCount": 0
+    },
+    "koratagere_t1": {
+      "id": "koratagere_t1",
+      "name": "Koratagere – Mixed Crop",
+      "district": "Tumkur",
+      "status": "UNKNOWN",
+      "timestamp": 0,
+      "confirmCount": 0
+    }
+  }
+}

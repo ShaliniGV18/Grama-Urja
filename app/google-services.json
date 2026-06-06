@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "468357068362",
+    "firebase_url": "https://moviewebsite-d6881-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "moviewebsite-d6881",
+    "storage_bucket": "moviewebsite-d6881.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468357068362:android:5b8b340d421f091a13d8b3",
+        "android_client_info": {
+          "package_name": "com.gramaurja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468357068362-abfrkklasmioksbp3tmnpbhgllitocv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdx7S1iR5kYytB1F9vkgJxSU65dnMsnHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468357068362-abfrkklasmioksbp3tmnpbhgllitocv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
